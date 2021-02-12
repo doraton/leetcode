@@ -3,13 +3,13 @@
 
 |#|题名|难度|题解|
 |:----:|----|----|----|
-|1|Two Sum|easy|java|
-|7|Reverse Integer|easy|java|
-|9|Palindrome Number|easy|java|
-|13|Roman to Integer|easy|java|
-|14|Longest Common Prefix|easy|java|
-|20|Valid Parentheses|easy|java|
-|21|Merge Two Sorted Lists|easy|java|
+|1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/twoSum)|
+|7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/reverseInteger)|
+|9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/palindromeNumber)|
+|13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)|easy|java|
+|14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|easy|java|
+|20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|easy|java|
+|21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|easy|java|
 |26|Remove Duplicates from Sorted Array|easy|java|
 |27|Remove Element|easy|java|
 |28|Implement strStr()|easy|java|
@@ -23,3 +23,4 @@
 |70|Climbing Stairs|easy|java|
 |83|Remove Duplicates from Sorted List|easy|java|
 |88|Merge Sorted Array|easy|java|
+|124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|hard|java|
