@@ -1,0 +1,27 @@
+package removeDuplicatesfromSortedArray;
+/*
+这是一个排序好的数组
+如果数组长度为0，则长度为0
+i是慢指针，j快指针，对比两个指针对应的值
+如果相等则快指针后移，如果不相等则把慢指针指向快指针
+新数组的长度为i的值加1
+ */
+public class Solution {
+    public int removeDuplicates(int[] nums){
+        if (nums.length == 0) return 0;
+        int i = 0;
+        for (int j = 1; j < nums.length; j++) {
+            if (nums[j] != nums[i]) {
+                i++;
+                nums[i] = nums[j];
+            }
+        }
+        return i + 1;
+    }
+
+    public static void main(String arg[]){
+        int[] nums={1,1,2,3};
+        Solution ex=new Solution();
+        System.out.println(ex.removeDuplicates(nums));
+    }
+}

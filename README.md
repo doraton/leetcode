@@ -6,11 +6,11 @@
 |1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/twoSum)|
 |7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/reverseInteger)|
 |9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/palindromeNumber)|
-|13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)|easy|java|
-|14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|easy|java|
-|20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|easy|java|
-|21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|easy|java|
-|26|Remove Duplicates from Sorted Array|easy|java|
+|13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/romanToInteger)|
+|14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/longestCommonPrefix)|
+|20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/validParentheses)|
+|21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/mergeTwoSortedLists)|
+|26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/removeDuplicatesFromSortedArray)|
 |27|Remove Element|easy|java|
 |28|Implement strStr()|easy|java|
 |35|Search Insert Position|easy|java|
@@ -23,4 +23,4 @@
 |70|Climbing Stairs|easy|java|
 |83|Remove Duplicates from Sorted List|easy|java|
 |88|Merge Sorted Array|easy|java|
-|124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|hard|java|
+|124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|hard|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/BinaryTreeMaximumPathSum)|
