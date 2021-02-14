@@ -10,7 +10,7 @@
 |14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/longestCommonPrefix)|
 |20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/validParentheses)|
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/mergeTwoSortedLists)|
-|26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/removeDuplicatesFromSortedArray)|
+|26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/removeDuplicatesfromSortedArray)|
 |27|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/removeElement)|
 |28|Implement strStr()|easy|java|
 |35|Search Insert Position|easy|java|
@@ -23,4 +23,4 @@
 |70|Climbing Stairs|easy|java|
 |83|Remove Duplicates from Sorted List|easy|java|
 |88|Merge Sorted Array|easy|java|
-|124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|hard|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/BinaryTreeMaximumPathSum)|
+|124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|hard|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/binaryTreeMaximumPathSum)|
