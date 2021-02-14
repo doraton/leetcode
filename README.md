@@ -11,7 +11,7 @@
 |20|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/validParentheses)|
 |21|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/mergeTwoSortedLists)|
 |26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/removeDuplicatesFromSortedArray)|
-|27|Remove Element|easy|java|
+|27|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/removeElement)|
 |28|Implement strStr()|easy|java|
 |35|Search Insert Position|easy|java|
 |38|Count and Say|easy|java|
