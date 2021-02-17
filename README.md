@@ -22,5 +22,5 @@
 |69|Sqrt(x)|easy|java|
 |70|Climbing Stairs|easy|java|
 |83|Remove Duplicates from Sorted List|easy|java|
-|88|Merge Sorted Array|easy|java|
+|88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/mergeSortedArray)|
 |124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|hard|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/binaryTreeMaximumPathSum)|
