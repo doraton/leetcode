@@ -2,9 +2,12 @@ package twoSum;
 
 import java.util.HashMap;
 import java.util.Map;
+/*
+两遍哈希表
 
-//两遍哈希表
-public class twoSum2 {
+小结：两遍哈希表比暴力法效率要高
+ */
+public class Solution2 {
     public int[] twoSum2(int[] nums,int target) {
         Map <Integer,Integer> map =new HashMap<>();
         for(int i=0;i<nums.length;i++) {
@@ -19,6 +22,5 @@ public class twoSum2 {
         }
         throw new IllegalArgumentException("No two sum solution");
     }
-
 }
-//小结：两遍哈希表比暴力法效率要高
+

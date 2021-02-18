@@ -1,16 +1,14 @@
 package twoSum;
 
+import java.util.Arrays;
 /*
 暴力法
 要让i与j取不同的值
 返回的是一个新数组
 没有结果时抛出异常类
 
-小结:暴力法的效率较低
+小结:暴力法的效率较低，时间复杂度T(n)=O(n^2)，空间复杂度S(n)=O(1)
  */
-
-import java.util.Arrays;
-
 public class Solution {
 	public int[] twoSum (int[] nums,int target) {
 		for(int i=0;i<nums.length;i++) {

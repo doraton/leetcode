@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 //一遍哈希表
-public class twoSum3 {
+public class Solution3 {
     public int[] twoSum(int[] nums,int target) {
         Map <Integer,Integer> map =new HashMap<>();
         for(int i=0;i<nums.length;i++) {

@@ -25,3 +25,4 @@
 |88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/mergeSortedArray)|
 |124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|hard|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/binaryTreeMaximumPathSum)|
 |566|[Reshape the Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/reshapeTheMatrix)|
+|995|[Minimum Number of K Consecutive Bit Flips](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/)|hard|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/minimumNumberofKConsecutiveBitFlips)|
