@@ -2,7 +2,7 @@ package twoSum;
 
 import java.util.Arrays;
 /*
-暴力法
+#1.暴力法
 要让i与j取不同的值
 返回的是一个新数组
 没有结果时抛出异常类

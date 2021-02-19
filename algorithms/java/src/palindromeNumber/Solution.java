@@ -3,7 +3,7 @@ package palindromeNumber;
 /*通过反转后半部分的数字与前半部分进行比较
 首先排除两种情况：1.负数一定不是回文数    2.大于0但是个位是0的数一定不是回文数（0是回文数）
 * */
-public class palindromeNumber {
+public class Solution {
     public boolean palindromeNumber(int x) {
         if (x < 0 || x != 0 && x % 10 == 0){
             return false;
@@ -18,7 +18,7 @@ public class palindromeNumber {
     //主方法
     public static void main(String[] arg){
         int x=12345;
-        palindromeNumber a=new palindromeNumber();
+        Solution a=new Solution();
         boolean result=a.palindromeNumber(x);
         if (result==false)
             System.out.println("非回文数");
