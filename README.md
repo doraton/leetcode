@@ -25,6 +25,6 @@
 |88|[<font color=green>Merge Sorted Array</font>](https://leetcode-cn.com/problems/merge-sorted-array/)|<font color=green>easy</font>|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/mergeSortedArray)|
 |124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|<font color=red>hard</font>|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/binaryTreeMaximumPathSum)|
 |566|[Reshape the Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/)|<font color=green>easy</font>|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/reshapeTheMatrix)|
-|697|[Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|<font color=green>easy</font>|[java]()|
+|697|[Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|<font color=green>easy</font>|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/degreeofanArray)|
 |995|[Minimum Number of K Consecutive Bit Flips](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/)|<font color=red>hard</font>|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/minimumNumberofKConsecutiveBitFlips)|
 |1004|[Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)|<font color=orange>medium</font>|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/maxConsecutiveOnesIII)|

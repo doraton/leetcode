@@ -10,7 +10,7 @@ import java.util.Map;
  */
 public class Solution {
     public int findShortestSubArray(int[] nums)  {
-//        遍历原数组，不存在该键，则put键值对；存在该键，则get修改次数和最后出现位置
+//        遍历原数组，不存在该键则put键值对；存在该键则get修改次数和最后出现位置
         Map<Integer, int[]> map = new HashMap<Integer, int[]>();
         int n = nums.length;
         for (int i = 0; i < n; i++) {
@@ -21,7 +21,7 @@ public class Solution {
                 map.put(nums[i], new int[]{1, i, i});
             }
         }
-//        遍历哈希表，最大值小于出现次数；最大值等于出现次数
+//        遍历哈希表，最大数组长度小于Value中出现次数则更新最大数组长度和最小长度；最大数组长度等于Value中出现次数，则比较两值
         int maxNum = 0, minLen = 0;
         for (Map.Entry<Integer, int[]> entry : map.entrySet()) {
             int[] arr = entry.getValue();
