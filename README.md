@@ -28,3 +28,4 @@
 |697|[Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|<font color=green>easy</font>|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/degreeofanArray)|
 |995|[Minimum Number of K Consecutive Bit Flips](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/)|<font color=red>hard</font>|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/minimumNumberofKConsecutiveBitFlips)|
 |1004|[Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)|<font color=orange>medium</font>|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/maxConsecutiveOnesIII)|
+|1438|[Longest Continuous Subarray With Absolute DiffLess Than or Equal to](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|medium|[java]|
