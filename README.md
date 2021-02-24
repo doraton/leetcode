@@ -27,6 +27,7 @@
 |566|[Reshape the Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/)|<font color=green>easy</font>|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/reshapeTheMatrix)|
 |697|[Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|<font color=green>easy</font>|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/degreeofanArray)|
 |766|[Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/submissions/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/toeplitzMatrix)|
+|832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|easy|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/flippingaAnImage)|
 |995|[Minimum Number of K Consecutive Bit Flips](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/)|<font color=red>hard</font>|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/minimumNumberofKConsecutiveBitFlips)|
 |1004|[Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)|<font color=orange>medium</font>|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/maxConsecutiveOnesIII)|
 |1052|[Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)|medium|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/grumpyBookstoreOwner)|
