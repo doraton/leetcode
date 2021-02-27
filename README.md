@@ -16,18 +16,19 @@
 |21|🟢[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)</br>（合并两个有序链表）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/mergeTwoSortedLists)|
 |26|🟢[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)</br>（删除排序数组中的重复项）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/removeDuplicatesfromSortedArray)|
 |27|🟢[Remove Element](https://leetcode-cn.com/problems/remove-element/)</br>（移除元素）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/removeElement)|
-|28|🟢Implement strStr()|java|
-|35|🟢Search Insert Position|java|
-|38|🟢Count and Say|java|
-|53|🟢Maximum Subarray|java|
-|58|🟢Length of Last Word|java|
-|66|🟢Plus One|java|
-|67|🟢Add Binary|java|
-|69|🟢Sqrt(x)|java|
-|70|🟢Climbing Stairs|java|
-|83|🟢Remove Duplicates from Sorted List|java|
+|28|🟢[Implement strStr]()|[java]()|
+|35|🟢[Search Insert Position]()|[java]()|
+|38|🟢[Count and Say]()|[java]()|
+|53|🟢[Maximum Subarray]()|[java]()|
+|58|🟢[Length of Last Word]()|[java]()|
+|66|🟢[Plus One]()|[java]()|
+|67|🟢[Add Binary]()|[java]()|
+|69|🟢[Sqrt(x)]()|[java]()|
+|70|🟢[Climbing Stairs]()|[java]()|
+|83|🟢[Remove Duplicates from Sorted List]()|[java]()|
 |88|🟢[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)</br>（合并两个有序数组）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/mergeSortedArray)|
 |124|🔴[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)</br>（二叉树中的最大路径和）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/binaryTreeMaximumPathSum)|
+|395|🟡[Longest Substring with At Least K Pepeating Characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)</br>（至少有K个重复字符的最长子串）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/longestSubstringwithAtLeastKPepeatingCharacters)|
 |566|🟢[Reshape the Matrix](https://leetcode-cn.com/problems/reshape-the-matrix/)</br>（重塑矩阵）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/reshapeTheMatrix)|
 |697|🟢[Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)</br>（数组的度）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/degreeofanArray)|
 |766|🟢[Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/submissions/)</br>（托普利茨矩阵）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/toeplitzMatrix)|
