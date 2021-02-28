@@ -34,6 +34,7 @@
 |766|🟢[Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/submissions/)</br>（托普利茨矩阵）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/toeplitzMatrix)|
 |832|🟢[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)</br>（翻转图像）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/flippingaAnImage)|
 |867|🟢[Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/)</br>（转置矩阵）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/transposeMatrix)|
+|896|🟢[Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/)</br>（单调数列）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/monotonicArray)|
 |995|🔴[Minimum Number of K Consecutive Bit Flips](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/)</br>（k连续位的最小翻转次数）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/minimumNumberofKConsecutiveBitFlips)|
 |1004|🟡[Max Consecutive Ones III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)</br>（最大连续1的个数III）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/maxConsecutiveOnesIII)|
 |1052|🟡[Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)</br>（爱生气的书店老板）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/grumpyBookstoreOwner)|
