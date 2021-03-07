@@ -28,6 +28,7 @@
 |83|🟢[Remove Duplicates from Sorted List]()|[java]()|
 |88|🟢[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/)</br>（合并两个有序数组）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/mergeSortedArray)|
 |124|🔴[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)</br>（二叉树中的最大路径和）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/binaryTreeMaximumPathSum)|
+|131|🟡[Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/)</br>（分割回文串）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/palindromePartitioning)|
 |232|🟢[Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)</br>（用栈实现队列）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/implementQueueusingStacks)|
 |303|🟢[Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)</br>（区域和检索-数组不可变）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/rangeSumQueryImmutable)|
 |304|🟡[Range Sum Query 2D- Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)</br>（二维区域和检索-矩阵不可变）|[java](https://github.com/su-zitong/LeetCode/tree/master/algorithms/java/src/rangeSumQuery2DImmutable)|

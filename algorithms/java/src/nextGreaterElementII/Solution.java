@@ -15,7 +15,6 @@ import java.util.Stack;
 注：
 此处peek,pop,push操作的都是数组下标i%n，而不是元素本身nums[i%n]
 
-
 小结：
 T(N)=O(N)，遍历了两次数组；
 S(N)=O(N)，使用了额外空间「单调栈」，最坏情况下，栈内会保存数组的所有元素。
