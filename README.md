@@ -35,6 +35,7 @@
 |232|🟢[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)</br>（Implement Queue using Stacks）|[栈](./algorithms/232.md)|
 |303|🟢[区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)</br>（Range Sum Query - Immutable）|[java](./algorithms/303.md)|
 |304|🟡[二维区域和检索-矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)</br>（Range Sum Query 2D- Immutable）|[java](./algorithms/304.md)|
+|331|🟡[验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)</br>（Verify Preorder Serialization of a Binary Tree）|[java](./algorithms/331.md)|
 |338|🟡[比特位计数](https://leetcode-cn.com/problems/counting-bits/)</br>（Counting Bits）|[java](./algorithms/338.md)|
 |354|🔴[俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)</br>（Russian Doll Envelopes）|[java](./algorithms/354.md)|
 |395|🟡[至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)</br>（Longest Substring with At Least K Repeating Characters）|[java](./algorithms/395.md)|
