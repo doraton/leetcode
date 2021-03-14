@@ -43,6 +43,7 @@
 |566|🟢[重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/)</br>（Reshape the Matrix）|[java](./algorithms/566.md)|
 |697|🟢[数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)</br>（Degree of an Array）|[java](./algorithms/697.md)|
 |705|🟢[设计哈希集合](https://leetcode-cn.com/problems/design-hashset/)</br>（Design HashSet）|[java](./algorithms/705.md)|
+|706|🟢[设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/)</br>（Design HashMap）|[java](./algorithms/706.md)|
 |766|🟢[托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/submissions/)</br>（Toeplitz Matrix）|[java](./algorithms/766.md)|
 |832|🟢[翻转图像](https://leetcode-cn.com/problems/flipping-an-image/)</br>（Flipping an Image）|[java](./algorithms/832.md)|
 |867|🟢[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/)</br>（Transpose Matrix）|[java](./algorithms/867.md)|
