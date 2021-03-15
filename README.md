@@ -20,6 +20,7 @@
 |35|🟢[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)</br>（Search Insert Position）|[java](./algorithms/35.md)|
 |38|🟢[外观数列](https://leetcode-cn.com/problems/count-and-say/)</br>（Count and Say）|[java](./algorithms/38.md)|
 |53|🟢[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)</br>（Maximum Subarray）|[java](./algorithms/53.md)|
+|54|🟡[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)</br>（Spiral Matrix）|[java](./algorithms/54.md)|
 |58|🟢[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)</br>（Length of Last Word）|[java](./algorithms/58.md)|
 |66|🟢[加一](https://leetcode-cn.com/problems/plus-one/)</br>（Plus One）|[java](./algorithms/66.md)|
 |67|🟢[二进制求和](https://leetcode-cn.com/problems/add-binary/)</br>（Add Binary）|[java](./algorithms/67.md)|
