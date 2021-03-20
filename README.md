@@ -29,10 +29,12 @@
 |70|🟢[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)</br>（Climbing Stairs）|[Solution](./algorithms/70.md)|
 |83|🟢[删除排序链表中的重复数据](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)</br>（Remove Duplicates from Sorted List）|[Solution](./algorithms/83.md)|
 |88|🟢[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)</br>（Merge Sorted Array）|[Solution](./algorithms/88.md)|
+|92|🟡[反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)</br>（Reverse Linked List II）|[Solution](./algorithms/92.md)|
 |115|🔴[不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)</br>（Distinct Subsequences）|[Solution](./algorithms/115.md)|
 |124|🔴[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)</br>（Binary Tree Maximum Path Sum）|[Solution](./algorithms/124.md)|
 |131|🟡[分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)</br>（Palindrome Partitioning）|[Solution](./algorithms/131.md)|
 |132|🔴[分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)</br>（Palindrome Partitioning II）|[Solution](./algorithms/132.md)|
+|150|🟡[逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)</br>（Evaluate Reverse Polish Notation）|[Solution](./algorithms/150.md)|
 |224|🔴[基本计算器](https://leetcode-cn.com/problems/basic-calculator/)</br>（Basic Calculator）|[栈、递归](./algorithms/224.md)|
 |227|🟡[基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)</br>（Basic Calculator II）|[栈、递归](./algorithms/227.md)|
 |232|🟢[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)</br>（Implement Queue using Stacks）|[栈](./algorithms/232.md)|
@@ -57,4 +59,5 @@
 |1052|🟡[爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)</br>（Grumpy Bookstore Owner）|[Solution](./algorithms/1052.md)|
 |1178|🔴[猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/)</br>（Number of Valid Words for Each Puzzle）|[Solution](./algorithms/1178.md)|
 |1438|🟡[绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)</br>（Longest Continuous Subarray With Absolute Diff Less Than or Equal to）|[Solution](./algorithms/1438.md)|
+|1603|🟢[设计停车系统](https://leetcode-cn.com/problems/design-parking-system/)</br>（Design Parking System）|[Solution](./algorithms/1603.md)|
 
